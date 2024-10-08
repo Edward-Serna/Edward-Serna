@@ -4,7 +4,7 @@
 * I’m currently working on Web Development<br>
 * I’m looking to collaborate on Javascript projects<br>
 * I’m currently learning Next.js<br>
-* Fun fact, I'm a UTSA Computer Engineering student
+* I'm a UTSA Computer Engineering student
 
 Socials: </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-serna-b717631a1/) 
